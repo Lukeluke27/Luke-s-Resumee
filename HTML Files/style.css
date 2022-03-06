@@ -1,0 +1,111 @@
+.img-luk {
+  width: 140px;
+  height: 170px;
+  border-radius: 50%;
+  z-index: 4;
+  margin-top: 20px;
+  margin-left: 1200px;
+  position: fixed;
+}
+
+
+
+
+
+
+
+
+#name {
+  font-family: cursive;
+  color: aliceblue;
+}
+
+.after-name {
+  color: #f1f1f1;
+  border-color: black;
+}
+
+
+
+.header {
+  padding: 50px;
+  top: 0%;
+  text-align: center;
+  background: #054e249c;
+  background-image: image(image_12);
+  border-radius: 0px 0px 70px 100px;
+  color: rgb(183, 185, 184);
+  box-shadow: 10px 10px 5px rgb(73, 80, 82);
+  font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  background-color: rgb(0, 0, 0);
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 10px 8px 6px 16px;
+  text-decoration: transparent;
+  font-size: 20px;
+  color: #c4c4c4;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #db4949;
+}
+
+.content {
+  margin-left: 100px; 
+  font-size: 23px; 
+  padding: 0px;
+  align-content: flex-start;
+}
+
+
+
+
+
+
+
+
+
+                    
+
+
+          
